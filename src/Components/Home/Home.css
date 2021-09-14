@@ -1,0 +1,22 @@
+button {
+  width: 50%;
+  padding: 8px 15px;
+  margin: 8px px;
+  box-sizing: border-box;
+  background-color: green;
+  color: white;
+  font-size: 16px;
+}
+.LogOut {
+  box-shadow: 4px 4px 18px lightgray;
+  width: 50%;
+  text-align: center;
+}
+.container {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
+.different {
+  color: rgba(111, 33, 184, 0.836);
+}

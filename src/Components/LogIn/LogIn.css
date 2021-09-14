@@ -1,0 +1,33 @@
+.LogIn {
+  box-shadow: 4px 4px 18px lightgray;
+  width: 50%;
+  text-align: center;
+}
+.container {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
+.error {
+  color: red;
+}
+input {
+  width: 100%;
+  padding: 10px 15px;
+  margin: 0px 0;
+  box-sizing: border-box;
+}
+
+.Container-field {
+  padding: 10px;
+  margin: 10px;
+}
+
+input:hover {
+  background-color: rgba(0, 0, 0, 0.048);
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: rgba(0, 128, 0, 0.692);
+}
